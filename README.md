@@ -55,6 +55,7 @@ plt.show()
 ```
 
 #### 4. Save the image as a PNG file using OpenCV imwrite().
+```python
 cv2.imwrite("Gray_Image.jpg",img_bgr)
 ```
 
